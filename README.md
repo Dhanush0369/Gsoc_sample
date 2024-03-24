@@ -53,7 +53,8 @@ The tests for testing the functionality of the Functions interacting with the DR
 
 ## Recording
 <br/>
-[<p align="center"> <video controls autoplay loop muted src="./screenshots/drs_cli.mp4"></video> </p>](https://github.com/Dhanush0369/Gsoc_sample/blob/main/screenshots/drs_cli.mp4)https://github.com/Dhanush0369/Gsoc_sample/blob/main/screenshots/drs_cli.mp4
+[Video of CLI functionality](https://github.com/Dhanush0369/Gsoc_sample/blob/main/screenshots/drs_cli.mp4)
+
 
 
 
