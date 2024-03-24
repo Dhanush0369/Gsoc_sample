@@ -7,26 +7,28 @@ This repository contains a CLI for interacting with Data Repository Service(DRS)
 The service running is the DRS Starter kit version 0.3.2 (Latest version available). Information about the service and object IDs are [here](https://starterkit.ga4gh.org/docs/starter-kit-apis/drs/drs_test_dataset).
 
 ## Installation
+I have provided the binary in the drs_cli directory, So it can be used directly without building.
+
 Clone the Repo:
 ```bash
-  git clone https://github.com/Dhanush0369/Gsoc_sample.git
+git clone https://github.com/Dhanush0369/Gsoc_sample.git
 ```
-Change directory to Gsoc_sample:
+Change directory to drs_cli:
 ```bash
-  cd Gsoc_sample
+cd Gsoc_sample/drs_cli
 ```
-Run
+Run the commands
 ```bash
-   cargo build --release
+./drs <SUBCOMMAND>
 ```
 
 ## Overview
-The CLI has 4 sub-commands 
+The CLI has 4 Subcommands 
 
 1. ```./drs service``` : It provides information about the service.
 2. ```./drs object <obj_id>``` : It provides the information about the Drs object. 
-3. ``` ./drs access <obj_id> <access_id>``` : It provides the URL for fetching the raw data. 
-4. ``` ./drs authinfo <obj_id>``` : It provides the Authorization info about the Drs object
+3. ```./drs access <obj_id> <access_id>``` : It provides the URL for fetching the raw data. 
+4. ```./drs authinfo <obj_id>``` : It provides the Authorization info about the Drs object
 
 
 ## Documentation for API Endpoints
