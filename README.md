@@ -9,6 +9,12 @@ The service running is the DRS Starter kit version 0.3.2 (Latest version availab
 ## Installation
 I have provided the binary in the drs_cli directory, So it can be used directly without building.
 
+Setup DRS service
+```bash
+docker pull ga4gh/ga4gh-starter-kit-drs:0.3.2
+docker run -p 4500:4500 -p 4501:4501 ga4gh/ga4gh-starter-kit-drs:0.3.2
+```
+
 Clone the Repo:
 ```bash
 git clone https://github.com/Dhanush0369/Gsoc_sample.git
