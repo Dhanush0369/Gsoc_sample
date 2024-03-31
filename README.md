@@ -61,7 +61,7 @@ The tests for testing the functionality of the Functions interacting with the DR
 
 ## Recording
 <br/>
-Video of CLI functionality(https://github.com/Dhanush0369/Gsoc_sample/blob/main/screenshots/drs_cli.mp4)
+Video of CLI functionality(https://www.youtube.com/watch?v=SZzpaFyKvTY)
 
 
 
