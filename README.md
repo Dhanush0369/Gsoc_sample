@@ -29,7 +29,7 @@ Run the commands
 ```
 
 ## Overview
-The CLI has 4 Subcommands 
+The CLI has 4 Subcommands. Below are there syntax.
 
 1. ```./drs service``` : It provides information about the service.
 2. ```./drs object <obj_id>``` : It provides the information about the Drs object. 
